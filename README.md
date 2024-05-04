@@ -1,5 +1,4 @@
-Scheduling task manager for laravel-admin
-============================
+## Scheduling task manager for laravel-admin
 
 A web interface for manage task scheduling in laravel.
 
@@ -34,7 +33,3 @@ class Kernel extends ConsoleKernel
 ```
 
 And you can find these tasks in scheduling panel.
-
-License
-------------
-Licensed under [The MIT License (MIT)](LICENSE).
